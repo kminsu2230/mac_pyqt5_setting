@@ -5,6 +5,8 @@
 
 #### setup info
 
+    * 첨부 된 이미지 파일을 순서대로 보면서 하면 하기 쉽습니다. *
+
     1. pyqt5의 스크립트를 설치
      ㄴ pip install PyQt5
      ㄴ brew install pyqt5
@@ -12,6 +14,12 @@
     2. 실행 툴인 QtCreator 설치 - url : (https://download.qt.io/)
     
     3. 설치 후 QtCreator 실행
+    
+    4. "Command + ," 또는 맥 메뉴/Preferences 를 클릭
+    
+    5. kit 탭에서 QtVersions를 클릭 후 add 클릭
+    
+    6. 
     
     
     
