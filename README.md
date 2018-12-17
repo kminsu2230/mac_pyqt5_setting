@@ -5,12 +5,13 @@
 
 #### setup info
 
-    * 먼저 pyqt5의 스크립트를 설치
-    1. pip install PyQt5
-    1-1. brew install pyqt5
+    1. pyqt5의 스크립트를 설치
+     ㄴ pip install PyQt5
+     ㄴ brew install pyqt5
     
-    * 실행 툴인 QtCreator 
-    2. usl : http://download.qt.io/
+    2. 실행 툴인 QtCreator 설치 - url : http://download.qt.io/
+    
+    3. 설치 후 QtCreator 실행
     
     
     
