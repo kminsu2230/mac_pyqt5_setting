@@ -9,6 +9,9 @@
     1. pip install PyQt5
     1-1. brew install pyqt5
     
+    * 실행 툴인 QtCreator 
+    2. usl : http://download.qt.io/
+    
     
     
     
