@@ -15,11 +15,11 @@
     
     3. 설치 후 QtCreator 실행
     
-    4. "Command + ," 또는 맥 메뉴/Preferences 를 클릭
+    4. 'Command + ,' 또는 맥 메뉴/Preferences 를 클릭
     
     5. kit 탭에서 QtVersions를 클릭 후 add 클릭
     
-    6. 
+    6. 설치된 qt의 qmake를 넣기위해 'Command + shift + g' 를 눌러서 경로를 입력 후 추가 (* qmake 의 위치는 작성자 기준 :  )
     
     
     
